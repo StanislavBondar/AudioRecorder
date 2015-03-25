@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Audio recorder</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="play">Play</string>
+    <string name="record">Record</string>
+</resources>
